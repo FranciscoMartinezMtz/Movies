@@ -1,0 +1,11 @@
+.movieCard{
+    list-style: none;
+    color: aquamarine;
+    font-size: 1.5rem;
+}
+
+
+.moveImage{
+    border-radius: 10px;
+    background-color: azure;
+}
